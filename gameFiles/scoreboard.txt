@@ -1,0 +1,9 @@
+person9 50
+person4 12
+person6 10
+person3 8
+person5 5
+person2 4
+person8 3
+person7 3
+person1 1
